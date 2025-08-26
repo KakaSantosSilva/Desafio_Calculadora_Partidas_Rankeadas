@@ -1,6 +1,6 @@
 
 let resposta = calculadoraPartidas(300, 50)
-console.log(resposta)
+console.log(resposta) // aqui é apenas um experimento pra testar se está pegando o resultado
 
 classificarVitorias(resposta)
 
